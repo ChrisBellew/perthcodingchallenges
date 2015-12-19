@@ -2,8 +2,9 @@
 Have all the fun
 
 ##Tools
-Let's use Cloud9 for writing code together at the same time https://c9.io/
+Let's use Cloud9 for writing code together at the same time. Go to our workspace at https://ide.c9.io/chrisbellew/perthcodingchallenges
 
+https://c9.io/
 ![alt tag](http://3.bp.blogspot.com/-7HRVGetSdU0/U9HcVeFoGlI/AAAAAAAB_qE/1oiccHS3pYg/s1600/collab.png)
 
 ##Challenges
